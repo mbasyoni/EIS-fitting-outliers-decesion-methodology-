@@ -1,2 +1,1 @@
-# EIS-fitting-outliers-decesion-methodology-
-EIS data ECM model fitting, predicting outliers and decision strategy 
+EIS data ECM model fitting, predicting outliers, outliers correction, and decision Policy
